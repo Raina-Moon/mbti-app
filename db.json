@@ -1,0 +1,18 @@
+{
+  "testResults": [
+    {
+      "id": "8eee",
+      "userId": "user5",
+      "timestamp": "2024-11-28T03:28:51.189Z",
+      "result": "INFP",
+      "isVisible": true
+    },
+    {
+      "id": "4b92",
+      "userId": "user5",
+      "timestamp": "2024-11-28T03:32:11.017Z",
+      "result": "ISFP",
+      "isVisible": true
+    }
+  ]
+}

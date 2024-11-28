@@ -1,0 +1,7 @@
+function Layout() {
+    return (
+        <>
+        <header/>
+        </>
+    )
+}
